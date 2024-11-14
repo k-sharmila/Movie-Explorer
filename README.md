@@ -1,6 +1,19 @@
-#To run this React movie Explorer application locally, follow these steps:
-<h5>Prerequisites</h5>
-<h6>Node.js and npm: <p>Ensure you have Node.js (which includes npm) installed on your machine. You can check by running:</p></h6>
-```
-console.log("alarm");
+# Movie Search Application
 
+A React-based movie search application with infinite scrolling functionality.
+
+## Getting Started
+
+### Prerequisites
+- **Node.js and npm**: You need Node.js (which includes npm) installed on your machine.
+  - Check if they're installed by running:
+    ```bash
+    node -v
+    npm -v
+    ```
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
